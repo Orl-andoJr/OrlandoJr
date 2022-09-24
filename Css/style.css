@@ -1,0 +1,224 @@
+body {
+    background-image: linear-gradient(to right, #040404, #000000);
+    /* background-image: url(https://images.hdqwalls.com/wallpapers/retro-city-sunset-4k-8y.jpg); */
+}
+
+header {
+    height: 90px;
+    padding: 30px;
+    margin: auto;
+    background-color: #bf1a1a;
+}
+
+/* .background{
+    background-image: url(https://images.hdqwalls.com/wallpapers/retro-city-sunset-4k-8y.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+} */
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 45px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+nav h2 {
+    color: aliceblue;
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+
+span {
+    color: #2e0082;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px 25px;
+    list-style-type: none;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.background a {
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: #2e0082;
+}
+
+
+.Home {
+    position: absolute;
+    top: 35%;
+    left: 8%;
+    transform: translateY(-50);
+    width: 400px;
+}
+
+h4 {
+    color: #fff;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+h1 {
+    color: #fff;
+    margin: 20px 0px 20px;
+    font-size: 75px;
+}
+
+h3 {
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.background-color-sobre {
+    width: 100%;
+    padding: 100px 0px;
+    color: #fff;
+}
+
+.text-sobre {
+    width: 550px;
+    text-align: center;
+    background-image: linear-gradient(to right, #70809093, #2d0970af);
+    border-radius: 20px;
+    margin-left: 100px;
+}
+
+.text-formaçao {
+    width: 550px;
+    text-align: center;
+    background-image: linear-gradient(to right, #70809093, #0a4966af);
+    border-radius: 20px;
+    margin-left: 700px;
+}
+
+
+
+.foto_dados {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.minhafoto {
+    width: 400px;
+}
+
+#fotofoto {
+    width: 400px;
+    margin-left: 350px;
+    border-radius: 40%;
+}
+
+.Home2 {
+    position: absolute;
+    top: 45%;
+    left: 8%;
+    transform: translateY(-50);
+    width: 400px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+
+footer {
+    color: #fff;
+    text-align: center;
+}
+
+
+.texto-1 {
+    color: #fff;
+}
+
+
+.minhafoto2 {
+    width: 400px;
+}
+
+.text-sobre2 {
+    width: 550px;
+    text-align: center;
+    background-image: linear-gradient(to right, #70809093, #edf10f54);
+    border-radius: 20px;
+    margin-left: 100px;
+}
+
+
+.text-time {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+.formulario {
+    color: #fff;
+    text-align: center;
+}
+
+.formulario2 {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    top: 60%;
+    left: 50%;
+    border-radius: 3%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(75, 71, 71, 0.281);
+    padding: 1%;
+
+}
+
+fieldset {
+    border: 3px solid #2d0970af;
+}
+
+legend {
+    border: 1px solid #2d0970af;
+    padding: 5px;
+    background-color: #2d0970af;
+    border-radius: 5px;
+}
+
+#botao {
+    background-color: #2d0970af;
+    border: none;
+    padding: 2%;
+    color: #fff;
+    font-size: 80%;
+    cursor: pointer;
+    border-radius: 5%;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
